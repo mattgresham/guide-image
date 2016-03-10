@@ -1,0 +1,1 @@
+This is a copy of the devHelpers module that I use to superimpose a Photoshop/Designer file onto the page I'm build so that I don't need to measure every height, width, padding, margin, etc... All the config options are at the top of the file.
